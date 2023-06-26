@@ -3,6 +3,7 @@
 ## Screenshots
 
 ![App Screenshot](./.github/preview.png)
+
 É uma aplicação onde o usuário poderá marcar seus favoritos do Github.
 
 ## Funcionalidades
@@ -12,4 +13,4 @@
 
 ## Projeto online
 
-[Github Favorites](https://github.com/)
+[Github Favorites](https://arks-lacerda.github.io/06-favoritesGithub/)
